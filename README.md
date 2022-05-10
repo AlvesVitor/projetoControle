@@ -7,10 +7,9 @@
 ### keyboard
 * POST /keyboard/{action}
 
-type
-action: 0 = keyPress e keyRelease 
-action: 1 = keyPress
-action: 2 = keyRelease
+types action ( 0 = keyPress e keyRelease, 1 = keyPress, 2 = keyRelease
+
+JSON = body:{ hashcode }
 
 
 ## Layout App
