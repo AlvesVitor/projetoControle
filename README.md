@@ -17,11 +17,11 @@ JSON = body:{ hashcode }
 ## Layout App
 
  
-<p align="center">
+<p align="left">
   <img alt="Interface da aplicação" src="./app/github/captura.jpg" width="80%" height="auto">
 </p>
 
-<p align="center">
+<p align="left">
   <img alt="Responsivo" src="./app/github/captura2.jpg" width="300" height="auto">
 </p>
 
