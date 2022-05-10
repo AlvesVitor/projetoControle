@@ -22,7 +22,7 @@ JSON = body:{ hashcode }
 </p>
 
 <p align="center">
-  <img alt="Responsivo" src="./app/github/captura2.jpg" width="200" height="auto">
+  <img alt="Responsivo" src="./app/github/captura2.jpg" width="300" height="auto">
 </p>
 
 
