@@ -2,7 +2,7 @@
 
  O projeto consiste em um aplicativo mobile de controle remoto para jogar no computador. 
  
- Aplicação mobile desenvolvida em React Native e API desenvolvida em String Boot Java.
+ Aplicação mobile desenvolvida em React Native e API desenvolvida em Spring Boot Java.
 
 ## Endpoints API
 
