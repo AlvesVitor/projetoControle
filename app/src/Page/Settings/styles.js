@@ -12,7 +12,7 @@ export const styles = StyleSheet.create({
         alignItems: 'center'
     },
     button: {
-        width: '70%',
+        width: '100%',
         padding: 10,
         flexDirection: 'row',
         justifyContent: 'center',

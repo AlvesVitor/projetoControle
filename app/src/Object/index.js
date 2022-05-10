@@ -213,6 +213,46 @@ export const keyboards = [
         label: "z",
         value: 90
     },
+    {
+        label: "0",
+        value: 48
+    },
+    {
+        label: "1",
+        value: 49
+    },
+    {
+        label: "2",
+        value: 50
+    },
+     {
+        label: "3",
+        value: 51
+    },
+    {
+        label: "4",
+        value: 52
+    },
+    {
+        label: "5",
+        value: 53
+    },
+    {
+        label: "6",
+        value: 54
+    },
+    {
+        label: "7",
+        value: 55
+    },
+    {
+        label: "8",
+        value: 56
+    },
+    {
+        label: "9",
+        value: 57
+    },
 
 ]
 

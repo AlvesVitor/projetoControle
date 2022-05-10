@@ -18,7 +18,10 @@ export function AppRoutes() {
                     options={{ headerShown: false }}
                 />
                 <Stack.Screen name="Settings" component={Settings}
-                    options={{ headerShown: true }}
+                    options={{
+                        headerShown: true,
+                        title: "Configurações"
+                    }}
                 />
             </Stack.Navigator>
         </NavigationContainer>

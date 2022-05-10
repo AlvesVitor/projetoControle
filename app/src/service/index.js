@@ -1,7 +1,8 @@
+import {URL_BACKEND} from '@env'
 
 function sendKeyboard(action, value) {
   return new Promise((resolver, reject) => {
-    fetch(`http://192.168.0.106:8080/keyboard/${action}`, {
+    fetch(`${URL_BACKEND}/keyboard/${action}`, {
       method: "POST",
       body: JSON.stringify(value),
       headers: {

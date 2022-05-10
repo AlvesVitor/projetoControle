@@ -1,4 +1,4 @@
-import React, { useContext, useEffect } from "react";
+import React, { useContext } from "react";
 import { View, Text, TouchableOpacity, ActivityIndicator } from "react-native";
 import Button from "../../components/Button";
 import DirectionButton from "../../components/DirectionButton";
@@ -38,7 +38,7 @@ export default function Joystick() {
                     <TouchableOpacity
                         style={styles.figure}
                         onPress={() => navigation.navigate("Settings")}>
-                        <MaterialCommunityIcons name="emoticon-excited-outline" size={30} color='#353839' />
+                        <MaterialCommunityIcons name="robot" size={30} color='#353839' />
                         <Text>Controls</Text>
                     </TouchableOpacity>
                 </View>
