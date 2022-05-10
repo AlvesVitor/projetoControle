@@ -1,6 +1,8 @@
 # Projeto controle
 
- O projeto consiste em um aplicativo mobile de controle remoto para jogar no computador. Aplicação mobile desenvolvida em React Native e API desenvolvido em String Boot Java.
+ O projeto consiste em um aplicativo mobile de controle remoto para jogar no computador. 
+ 
+ Aplicação mobile desenvolvida em React Native e API desenvolvida em String Boot Java.
 
 ## Endpoints API
 
