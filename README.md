@@ -20,6 +20,6 @@ action: 2 = keyRelease
 </p>
 
 <p align="center">
-  <img alt="Responsivo" src="./app//github/image2.png" width="500px">
+  <img alt="Responsivo" src="./app/github/image2.png" width="500px">
 </p>
 
