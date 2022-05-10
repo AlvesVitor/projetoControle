@@ -6,17 +6,12 @@
 
 ### keyboard
 * POST /keyboard/{action}
-* 
- ##examle JSON : 
- body:{
-  hashcode
- }
 
-##type actions  : 
+##type actions
 action: 0 = keyPress e keyRelease 
 action: 1 = keyPress
 action: 2 = keyRelease
 
 
 ## Layout App
-# Pr
+
