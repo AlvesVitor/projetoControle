@@ -7,7 +7,7 @@
 ### keyboard
 * POST /keyboard/{action}
 
-##type actions
+type actions
 action: 0 = keyPress e keyRelease 
 action: 1 = keyPress
 action: 2 = keyRelease
