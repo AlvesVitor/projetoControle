@@ -15,11 +15,11 @@ action: 2 = keyRelease
 
 ## Layout App
 
-<p align="center">
-  <img alt="Interface da aplicação" src="./app/github/image.png" width="100%">
+<p style="width= 200">
+  <img alt="Interface da aplicação" src="./app/github/captura.jpg" width="100%">
 </p>
 
-<p align="center">
-  <img alt="Responsivo" src="./app/github/image2.png" width="500px">
+<p style="width= 200">
+  <img alt="Responsivo" src="./app/github/captura2.jpg" width="500px">
 </p>
 
