@@ -11,7 +11,7 @@
     <groupId>com.controller</groupId>
     <artifactId>api-controler</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>api-controler</name>
+    <name>api-controle</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
