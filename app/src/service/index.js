@@ -1,4 +1,4 @@
-import {URL_BACKEND} from '@env'
+import { URL_BACKEND } from "@env";
 
 function sendKeyboard(action, value) {
   return new Promise((resolver, reject) => {
@@ -6,18 +6,17 @@ function sendKeyboard(action, value) {
       method: "POST",
       body: JSON.stringify(value),
       headers: {
-        "Content-type": "application/json"
+        "Content-type": "application/json",
       },
     })
       .then(async (response) => {
         resolver(response);
         return;
-
       })
       .catch((err) => {
-        console.log("Verifique sua conexão!")
-        reject(err)
+        console.log("Verifique sua conexão!");
+        reject(err);
       });
   });
 }
-export default { sendKeyboard }
+export default { sendKeyboard };
